@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Malavika Katta</h1>
-<h3 align="center">A passionate Data Engineer & Analyst</h3>
+<h3 align="center">A passionate Data Analyst & Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malavikakatta&label=Profile%20views&color=0e75b6&style=flat" alt="malavikakatta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malavikakatta" alt="malavikakatta" /></a> </p>
 
-- 🌱 I’m currently learning **DataBricks**
+- 🌱 I’m currently learning **Qlik**
 
 - 💬 Ask me about **Data**
 
