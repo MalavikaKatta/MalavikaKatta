@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malavikakatta" alt="malavikakatta" /></a> </p>
 
-- 🌱 I’m currently learning **Azure Synapse Analytics**
+- 🌱 I’m currently looking for **Data Engineer and Data Analyst jobs**
 
 - 💬 Ask me about **Data**
 
