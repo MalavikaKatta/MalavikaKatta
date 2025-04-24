@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malavika </h1>
-<h3 align="center">A passionate Engineer & Data Analyst </h3>
+<h3 align="center">A passionate Data Engineer & Analyst </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malavikakatta&label=Profile%20views&color=0e75b6&style=flat" alt="malavikakatta" /> </p>
 
